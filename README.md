@@ -1,3 +1,5 @@
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kannika Mukmontree
 ==========================================================================================================================================
 
@@ -7,9 +9,9 @@ Web Designer, UX Designer, Python Dev
 I've been learning information study program. Burapha University, Chonburi Thailand
 
 *   🌍  I'm based in Chonburi
-*   🖥️  See my portfolio at [Mylinkedin](http://https://www.linkedin.com/feed/)
+*   🖥️  See my portfolio at [Mylinkedin](http://www.linkedin.com/feed/)
 *   ✉️  You can contact me at [64020810@go.buu.ac.th](mailto:64020810@go.buu.ac.th)
-*   🚀  I'm currently working on [My office](http://https://github.com/KannikaMukmontree)
+*   🚀  I'm currently working on [My office](http://github.com/KannikaMukmontree)
 *   🧠  I'm learning AI Agentic
 *   🤝  I'm open to collaborating on gaming, AI Agentic, Deep learning<a href="https://www.github.com/KannikaMukmontree" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/KannikaMukmontree?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
